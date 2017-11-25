@@ -1,0 +1,12 @@
+.people-profile {
+    padding-top:5px;
+}
+/* .logo-carousel ~  */
+.carousel-indicators {
+    display:none;
+}
+/* .people-profile ~  */
+.img-thumbnail{    
+    border-radius: 6.5rem;
+}
+
